@@ -24,4 +24,4 @@ npm-debug.log*
 
 # Ignore VSCode settings
 .vscode/
-
+.DS_Store
