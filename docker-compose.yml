@@ -7,5 +7,8 @@ services:
       - "4873:4873"
     volumes:
       - ./conf:/verdaccio/conf
-      - ./storage:/verdaccio/storage
-      - ./plugins:/verdaccio/plugins
+      - storage:/verdaccio/storage
+      - plugins:/verdaccio/plugins
+volumes:
+  storage:
+  plugins:
