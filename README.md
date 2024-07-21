@@ -5,7 +5,7 @@ Verdaccio is a lightweight private npm registry that can be run locally.
 ### Clone the repo
 I created a repo with the docker-compose file for running the application in the docker container. 
 
-**Repo:** [https://github.com/Docker-X/verdaccio-docker-compose](https://github.com/Docker-X/verdaccio-docker-compose)
+**Repo:** [verdaccio-docker-compose](https://github.com/ContainerTalks/verdaccio-docker-compose)
 
 ### Run the application:
 Open a terminal, navigate to the directory containing the docker-compose.yml file, and run the following command:
